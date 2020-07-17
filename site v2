@@ -1,1 +1,57 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    
+    <title>M@del 3D v2</title>
+</head>
+<body>
+    <header>
+        <div class="wrapper">
+            <h1>M@DEL <span class="orange">3D</span></h1>
+            <nav>
+                <ul>
+                    <li class="li" ><a href="index.html" class="a" target="_blank" title="revenir a la page d'Acceuil">Acceuil</a></li>
+                    <li class="li" ><a href="Partager.html" class="a"  target="_blank" title="partager vos fichiers">Partager</a></li>
+                    <li class="li" ><a href="rechercher.html" class="a"    target="_blank" title="rechercher des fichiers">Rechercher</a></li>
+                    <li class="li" ><a href="contact.html"  class="a"        target="_blank" title="nous contacter">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section>
+        <article>
+            <div class="div">
+                <img src="/images/photodeprofil 2.jpeg" alt="photo de profil">
+                <h2>article</h2>
+                <a href="fichier.zip"><h4 class="downloadbouton1">Télécharger</h4></a>
+                <a href="mailto:vianneydubourg@gmail.com" class="contact">contact</a>
+            </div> 
+            
+            <img  class="img" src="/images/123 copie.jpg" alt="photo">
+            <textarea name="description" class="text" cols="30" rows="35" placeholder="description de l'article"></textarea>
+        </article>
+    </section>
+    
+    <section>
+        <article>
+            <div class="div">
+                <img src="/images/photodeprofil 2.jpeg" alt="photo de profil">
+                <h2>article</h2>
+            </div> 
+            
+            <img  class="img" src="/images/123 copie.jpg" alt="photo">
+            <textarea name="description" class="text" cols="30" rows="35" placeholder="description de l'article"></textarea>
+        </article>
+    </section>
+    
+    <footer>
+        <div class="wrapper">
+            <div class="copyright">copyright © 2020. Tous droits réservés.</div>
+            <h1>M@DEL <span class="orange">3D</span></h1>
+        </div>
+    </footer>
+</body>
+</html>
